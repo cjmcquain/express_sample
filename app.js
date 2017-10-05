@@ -29,7 +29,7 @@ app.post('/contact/send', function(req, res){
         service: 'Gmail',
         auth: {
             user: 'charlesjmcquain@gmail.com',
-            pass: '[ENTER PASSWORD HERE]'
+            pass: '[ PLEASE ENTER PASSWORD HERE]'
         }
     });
     
